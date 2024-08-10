@@ -1,0 +1,31 @@
+table{
+	width: 100%;
+}
+thead{
+	/*background:#68C0DD;*/
+	background: #2a3f54;
+	color: #CECDCD;
+	text-align: center;
+}
+th, td{
+	/*border-right: 1px solid #080808;*/
+	/*border-bottom: 1px solid #FFFFFF;*/
+	border: 1px solid #4b4a4a;
+	height: 30px;
+	width: 100px;
+	text-align: center;
+	padding: 5px;
+}
+td{
+
+ color: rgb(27, 27, 27);
+}
+.mostrar_tabla{
+	background:#68C0DD;
+	text-align: left;
+	margin-top: 15px;
+	width: 780px;
+	margin-left: 25px;
+	border-left: 1px solid #FFFFFF;
+	border-top: 1px solid #FFFFFF;
+}
